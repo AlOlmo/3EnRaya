@@ -1,0 +1,36 @@
+button{
+    width: 150px;
+    height: 150px;
+
+}
+
+.container{
+    margin:auto;
+}
+
+.libre{
+    background-color: lightgray;
+}
+
+.Pplayer1{
+    background-color: blue;
+}
+
+.Pplayer2{
+    background-color: red;
+}
+
+#f1{
+    display:flex;
+    flex-direction:row
+}
+
+#f2{
+    display:flex;
+    flex-direction:row
+}
+
+#f3{
+    display:flex;
+    flex-direction:row
+}
